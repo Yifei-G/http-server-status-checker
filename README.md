@@ -9,8 +9,6 @@
 Easy
 
 ## Objectives
-
-## Learn how to:
 1. Use the socket module and its basic functionalities;
 2. Manage simple http connections.
 
